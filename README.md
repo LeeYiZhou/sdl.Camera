@@ -1,2 +1,1 @@
-"# sdl.Camera" 
-"# sdl.Camera" 
+The project of class "ソフトウェア開発演習"
